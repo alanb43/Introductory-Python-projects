@@ -1,0 +1,45 @@
+''' Insert heading comments here.'''
+
+def open_file():
+    '''Insert docstring here.'''
+    pass  # insert your code here
+    
+def get_us_value(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+    
+def get_min_value_and_state(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def get_max_value_and_state(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+        
+def display_herd_immunity(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def write_herd_immunity(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def main():   
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+if __name__ == "__main__":
+    main()    
+    
+    
+# strings
+
+"Input a file name: "
+"Error: file not found. Please try again."
+"herd.txt"
+"\nStates with insufficient Measles herd immunity."
+"{:<25s}{:>5s}".format("State","Percent")
+"{:<25s}{:>5.1f}%"
+"Overall US MMR coverage: {}%"
+"State with minimal MMR coverage: {} {}%"
+"State with maximum MMR coverage: {} {}%"
