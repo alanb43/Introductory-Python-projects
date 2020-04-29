@@ -1,0 +1,51 @@
+index, state, population, reps, delta
+1, "Alabama", 4802982, 7, 0
+2, "Alaska", 721523, 1, 0
+3, "Arizona", 6412700, 9, +1
+4, "Arkansas", 2926229, 4, 0
+5, "California", 37341989, 53, 0
+6, "Colorado", 5044930, 7, 0
+7, "Connecticut", 3581628, 5, 0
+8, "Delaware", 900877, 1, 0
+9, "Florida", 18900773, 27, +2
+10, "Georgia", 9727566, 14, +1
+11, "Hawaii", 1366862, 2, 0
+12, "Idaho", 1573499, 2, 0
+13, "Illinois", 12864380, 18, -1
+14, "Indiana", 6501582, 9, 0
+15, "Iowa", 3053787, 4, -1
+16, "Kansas", 2863813, 4, 0
+17, "Kentucky", 4350606, 6, 0
+18, "Louisiana", 4553962, 6, -1
+19, "Maine", 1333074, 2, 0
+20, "Maryland", 5789929, 8, 0
+21, "Massachusetts", 6559644, 9, -1
+22, "Michigan", 9911626, 14, -1
+23, "Minnesota", 5314879, 8, 0
+24, "Mississippi", 2978240, 4, 0
+25, "Missouri", 6011478, 8, -1
+26, "Montana", 994416, 1, 0
+27, "Nebraska", 1831825, 3, 0
+28, "Nevada", 2709432, 4, +1
+29, "New Hampshire", 1321445, 2, 0
+30, "New Jersey", 8807501, 12, -1
+31, "New Mexico", 2067273, 3, 0
+32, "New York", 19421055, 27, -2
+33, "North Carolina", 9565781, 13, 0
+34, "North Dakota", 675905, 1, 0
+35, "Ohio", 11568495, 16, -2
+36, "Oklahoma", 3764882, 5, 0
+37, "Oregon", 3848606, 5, 0
+38, "Pennsylvania", 12734905, 18, -1
+39, "Rhode Island", 1055247, 2, 0
+40, "South Carolina", 4645975, 7, +1
+41, "South Dakota", 819761, 1, 0
+42, "Tennessee", 6375431, 9, 0
+43, "Texas", 25268418, 36, +4
+44, "Utah", 2770765, 4, +1
+45, "Vermont", 630337, 1, 0
+46, "Virginia", 8037736, 11, 0
+47, "Washington", 6753369, 10, +1
+48, "West Virginia", 1859815, 3, 0
+49, "Wisconsin", 5698230, 8, 0
+50, "Wyoming", 568300, 1, 0
