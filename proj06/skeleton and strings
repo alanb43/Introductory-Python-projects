@@ -1,0 +1,66 @@
+''' Insert heading comments here.'''
+
+import csv
+
+def open_file():
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def read_file(fp):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+    
+def shoots_left_right(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def position(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def off_side_shooter(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def points_per_game(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def games_played(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+
+def shots_taken(master_list):
+    '''Insert docstring here.'''
+    pass  # insert your code here
+    
+def main():
+    '''Insert docstring here.'''
+    
+    pass  # insert your code here
+
+if __name__ == "__main__":
+    main()
+    
+# strings
+
+"File not found! Please try again!"
+"{:^10s}".format("Shooting"))
+"left:  {:4d}"
+"right: {:4d}"
+"{:^12s}".format("Position"))
+"left:    {:4d}"
+"right:   {:4d}"
+"center:  {:4d}"
+"defense: {:4d}"
+"{:^24s}".format("Off-side Shooter"))
+"left-wing shooting right: {:4d}"
+"right-wing shooting left: {:4d}"
+"{:^36s}".format("Top Ten Points-Per-Game"))
+"{:<20s}{:>8s}{:>16s}"
+"{:<20s}{:>8s}{:>16.2f}"
+"{:^36s}".format("Top Ten Games-Played"))
+"{:<20s}{:>16s}"
+"{:<20s}{:>16,d}"
+"{:^36s}".format("Top Ten Shots-Taken"))
+"{:<20s}{:>16,d}"
