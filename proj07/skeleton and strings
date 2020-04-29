@@ -1,0 +1,34 @@
+''' Your header goes here '''
+
+import math
+
+def open_file():
+    ''' Docstring goes here '''
+    pass
+
+def calc_multipliers():
+    ''' Docstring goes here '''
+    pass
+    
+def calc_priorities(s,p,m):
+    ''' Docstring goes here '''
+    pass
+
+def read_file_make_priorities(fp,multipliers): 
+    ''' Docstring goes here '''
+    pass
+
+def add_to_state(state,states):
+    ''' Docstring goes here '''
+    pass
+
+def display(states):
+    ''' Docstring goes here '''
+    pass
+
+def main():
+    ''' Docstring goes here '''
+    pass
+
+if __name__ == "__main__":
+    main()
